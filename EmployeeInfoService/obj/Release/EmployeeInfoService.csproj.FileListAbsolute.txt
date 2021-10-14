@@ -1,0 +1,24 @@
+C:\Users\al150886\OneDrive - Renishaw plc\Sharing\EmployeeInfoService\bin\Release\EmployeeInfoService.exe.config
+C:\Users\al150886\OneDrive - Renishaw plc\Sharing\EmployeeInfoService\bin\Release\EmployeeInfoService.exe
+C:\Users\al150886\OneDrive - Renishaw plc\Sharing\EmployeeInfoService\bin\Release\EmployeeInfoService.pdb
+C:\Users\al150886\OneDrive - Renishaw plc\Sharing\EmployeeInfoService\bin\Release\EntityFramework.dll
+C:\Users\al150886\OneDrive - Renishaw plc\Sharing\EmployeeInfoService\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\al150886\OneDrive - Renishaw plc\Sharing\EmployeeInfoService\bin\Release\EntityFramework.xml
+C:\Users\al150886\OneDrive - Renishaw plc\Sharing\EmployeeInfoService\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\al150886\OneDrive - Renishaw plc\Sharing\EmployeeInfoService\obj\Release\EmployeeInfoService.csprojAssemblyReference.cache
+C:\Users\al150886\OneDrive - Renishaw plc\Sharing\EmployeeInfoService\obj\Release\EmployeeInfoService.csproj.CoreCompileInputs.cache
+C:\Users\al150886\OneDrive - Renishaw plc\Sharing\EmployeeInfoService\obj\Release\EmployeeInfoService.csproj.CopyComplete
+C:\Users\al150886\OneDrive - Renishaw plc\Sharing\EmployeeInfoService\obj\Release\EmployeeInfoService.exe
+C:\Users\al150886\OneDrive - Renishaw plc\Sharing\EmployeeInfoService\obj\Release\EmployeeInfoService.pdb
+C:\Aneeket\CSharp\EmployeeInfoApp\EmployeeInfoService\bin\Release\EmployeeInfoService.exe.config
+C:\Aneeket\CSharp\EmployeeInfoApp\EmployeeInfoService\bin\Release\EmployeeInfoService.exe
+C:\Aneeket\CSharp\EmployeeInfoApp\EmployeeInfoService\bin\Release\EmployeeInfoService.pdb
+C:\Aneeket\CSharp\EmployeeInfoApp\EmployeeInfoService\bin\Release\EntityFramework.dll
+C:\Aneeket\CSharp\EmployeeInfoApp\EmployeeInfoService\bin\Release\EntityFramework.SqlServer.dll
+C:\Aneeket\CSharp\EmployeeInfoApp\EmployeeInfoService\bin\Release\EntityFramework.xml
+C:\Aneeket\CSharp\EmployeeInfoApp\EmployeeInfoService\bin\Release\EntityFramework.SqlServer.xml
+C:\Aneeket\CSharp\EmployeeInfoApp\EmployeeInfoService\obj\Release\EmployeeInfoService.csprojAssemblyReference.cache
+C:\Aneeket\CSharp\EmployeeInfoApp\EmployeeInfoService\obj\Release\EmployeeInfoService.csproj.CoreCompileInputs.cache
+C:\Aneeket\CSharp\EmployeeInfoApp\EmployeeInfoService\obj\Release\EmployeeInfoService.csproj.CopyComplete
+C:\Aneeket\CSharp\EmployeeInfoApp\EmployeeInfoService\obj\Release\EmployeeInfoService.exe
+C:\Aneeket\CSharp\EmployeeInfoApp\EmployeeInfoService\obj\Release\EmployeeInfoService.pdb

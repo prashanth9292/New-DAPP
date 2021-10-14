@@ -1,0 +1,31 @@
+C:\Users\al150886\OneDrive - Renishaw plc\Sharing\EmployeeInfoApp\bin\Release\EmployeeInfoApp.exe.config
+C:\Users\al150886\OneDrive - Renishaw plc\Sharing\EmployeeInfoApp\bin\Release\EmployeeInfoApp.exe
+C:\Users\al150886\OneDrive - Renishaw plc\Sharing\EmployeeInfoApp\bin\Release\EmployeeInfoApp.pdb
+C:\Users\al150886\OneDrive - Renishaw plc\Sharing\EmployeeInfoApp\obj\Release\MainWindow.g.cs
+C:\Users\al150886\OneDrive - Renishaw plc\Sharing\EmployeeInfoApp\obj\Release\App.g.cs
+C:\Users\al150886\OneDrive - Renishaw plc\Sharing\EmployeeInfoApp\obj\Release\EmployeeInfoApp_MarkupCompile.cache
+C:\Users\al150886\OneDrive - Renishaw plc\Sharing\EmployeeInfoApp\obj\Release\EmployeeInfoApp_MarkupCompile.lref
+C:\Users\al150886\OneDrive - Renishaw plc\Sharing\EmployeeInfoApp\obj\Release\App.baml
+C:\Users\al150886\OneDrive - Renishaw plc\Sharing\EmployeeInfoApp\obj\Release\MainWindow.baml
+C:\Users\al150886\OneDrive - Renishaw plc\Sharing\EmployeeInfoApp\obj\Release\EmployeeInfoApp.g.resources
+C:\Users\al150886\OneDrive - Renishaw plc\Sharing\EmployeeInfoApp\obj\Release\EmployeeInfoApp.Properties.Resources.resources
+C:\Users\al150886\OneDrive - Renishaw plc\Sharing\EmployeeInfoApp\obj\Release\EmployeeInfoApp.csproj.GenerateResource.cache
+C:\Users\al150886\OneDrive - Renishaw plc\Sharing\EmployeeInfoApp\obj\Release\EmployeeInfoApp.csproj.CoreCompileInputs.cache
+C:\Users\al150886\OneDrive - Renishaw plc\Sharing\EmployeeInfoApp\obj\Release\EmployeeInfoApp.exe
+C:\Users\al150886\OneDrive - Renishaw plc\Sharing\EmployeeInfoApp\obj\Release\EmployeeInfoApp.pdb
+C:\Aneeket\CSharp\EmployeeInfoApp\EmployeeInfoApp\bin\Release\EmployeeInfoApp.exe.config
+C:\Aneeket\CSharp\EmployeeInfoApp\EmployeeInfoApp\bin\Release\EmployeeInfoApp.exe
+C:\Aneeket\CSharp\EmployeeInfoApp\EmployeeInfoApp\bin\Release\EmployeeInfoApp.pdb
+C:\Aneeket\CSharp\EmployeeInfoApp\EmployeeInfoApp\obj\Release\EmployeeInfoApp.csprojAssemblyReference.cache
+C:\Aneeket\CSharp\EmployeeInfoApp\EmployeeInfoApp\obj\Release\MainWindow.g.cs
+C:\Aneeket\CSharp\EmployeeInfoApp\EmployeeInfoApp\obj\Release\App.g.cs
+C:\Aneeket\CSharp\EmployeeInfoApp\EmployeeInfoApp\obj\Release\EmployeeInfoApp_MarkupCompile.cache
+C:\Aneeket\CSharp\EmployeeInfoApp\EmployeeInfoApp\obj\Release\EmployeeInfoApp_MarkupCompile.lref
+C:\Aneeket\CSharp\EmployeeInfoApp\EmployeeInfoApp\obj\Release\App.baml
+C:\Aneeket\CSharp\EmployeeInfoApp\EmployeeInfoApp\obj\Release\MainWindow.baml
+C:\Aneeket\CSharp\EmployeeInfoApp\EmployeeInfoApp\obj\Release\EmployeeInfoApp.g.resources
+C:\Aneeket\CSharp\EmployeeInfoApp\EmployeeInfoApp\obj\Release\EmployeeInfoApp.Properties.Resources.resources
+C:\Aneeket\CSharp\EmployeeInfoApp\EmployeeInfoApp\obj\Release\EmployeeInfoApp.csproj.GenerateResource.cache
+C:\Aneeket\CSharp\EmployeeInfoApp\EmployeeInfoApp\obj\Release\EmployeeInfoApp.csproj.CoreCompileInputs.cache
+C:\Aneeket\CSharp\EmployeeInfoApp\EmployeeInfoApp\obj\Release\EmployeeInfoApp.exe
+C:\Aneeket\CSharp\EmployeeInfoApp\EmployeeInfoApp\obj\Release\EmployeeInfoApp.pdb
